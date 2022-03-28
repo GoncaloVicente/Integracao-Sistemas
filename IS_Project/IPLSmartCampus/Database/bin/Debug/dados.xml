@@ -1,0 +1,14 @@
+<sensor id="1">
+<temperature>
+29,62
+</temperature>
+<humidity>
+68
+</humidity>
+<battery>
+40
+</battery>
+<timestamp>
+1571568174
+</timestamp>
+</sensor>

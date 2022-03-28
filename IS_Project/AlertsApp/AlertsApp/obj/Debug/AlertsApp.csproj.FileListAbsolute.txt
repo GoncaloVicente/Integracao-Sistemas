@@ -1,0 +1,30 @@
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.exe.config
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.exe
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.pdb
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csprojAssemblyReference.cache
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.AlertsApp.resources
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.Properties.Resources.resources
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csproj.GenerateResource.cache
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.exe
+C:\Users\Gabriel Frazão\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.pdb
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.exe.config
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.exe
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.pdb
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.AlertsApp.resources
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.exe
+C:\Users\Gabriel\Desktop\prj_IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.pdb
+C:\Projetos\IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.exe.config
+C:\Projetos\IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.exe
+C:\Projetos\IS\AlertsApp\AlertsApp\bin\Debug\AlertsApp.pdb
+C:\Projetos\IS\AlertsApp\AlertsApp\bin\Debug\M2Mqtt.Net.dll
+C:\Projetos\IS\AlertsApp\AlertsApp\bin\Debug\M2Mqtt.Net.pdb
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csprojAssemblyReference.cache
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.AlertsApp.resources
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.Properties.Resources.resources
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csproj.GenerateResource.cache
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.csproj.CopyComplete
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.exe
+C:\Projetos\IS\AlertsApp\AlertsApp\obj\Debug\AlertsApp.pdb

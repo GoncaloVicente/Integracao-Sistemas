@@ -1,0 +1,12 @@
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\bin\Debug\Grahps.exe.config
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\bin\Debug\Grahps.exe
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\bin\Debug\Grahps.pdb
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.csprojAssemblyReference.cache
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.Form1.resources
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.Properties.Resources.resources
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.csproj.GenerateResource.cache
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.exe
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.pdb
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Gonçalo Vicente\source\repos\Grahps\Grahps\obj\Debug\Grahps.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\bin\Debug\BinaryTranslator.exe.config
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\bin\Debug\BinaryTranslator.exe
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\bin\Debug\BinaryTranslator.pdb
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.Properties.Resources.resources
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.exe
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.pdb
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.Form1.resources
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\bin\Debug\M2Mqtt.Net.dll
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\mathe\Desktop\WIP\IntegracaoSistemas\Projeto\BinaryTranslator\BinaryTranslator\obj\Debug\BinaryTranslator.csproj.CopyComplete

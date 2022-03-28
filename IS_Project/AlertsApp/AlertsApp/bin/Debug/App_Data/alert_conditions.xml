@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<alertConditions>
+  <condition type="equal" parameter="Humidity">
+    <value1>90</value1>
+    <enable>True</enable>
+    <message>Alert relative to Humidity</message>
+  </condition>
+  <condition type="bigger" parameter="Temperature">
+    <value1>35,6</value1>
+    <enable>False</enable>
+    <message>Alert relative to Temperature</message>
+  </condition>
+  <condition type="smaller" parameter="Humidity">
+    <value1>50</value1>
+    <enable>True</enable>
+    <message>Alert relative to Humidity</message>
+  </condition>
+  <condition type="between" parameter="Temperature">
+    <value1>30</value1>
+    <enable>False</enable>
+    <message>Alert relative to Temperature</message>
+    <value2>50</value2>
+  </condition>
+</alertConditions>
